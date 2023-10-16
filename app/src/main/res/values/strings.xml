@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="enter_text">Enter text</string>
+    <string name="count">Count</string>
+    <string name="result">Result: %d</string>
+    <string-array name="count_options">
+        <item>Words</item>
+        <item>Characters</item>
+    </string-array>
+    <string name="empty_text_warning">Text field cannot be empty</string>
+</resources>
